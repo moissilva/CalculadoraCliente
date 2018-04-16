@@ -104,42 +104,42 @@
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
                           <Group type="102" alignment="0" attributes="0">
-                              <Component id="jButton8" min="-2" pref="58" max="-2" attributes="0"/>
+                              <Component id="BT_Sete" min="-2" pref="58" max="-2" attributes="0"/>
                               <EmptySpace type="separate" max="-2" attributes="0"/>
-                              <Component id="jButton6" min="-2" pref="58" max="-2" attributes="0"/>
+                              <Component id="BT_Oito" min="-2" pref="58" max="-2" attributes="0"/>
                               <EmptySpace type="separate" max="-2" attributes="0"/>
-                              <Component id="jButton7" min="-2" pref="58" max="-2" attributes="0"/>
+                              <Component id="BT_Nove" min="-2" pref="58" max="-2" attributes="0"/>
                               <EmptySpace type="separate" max="-2" attributes="0"/>
                               <Component id="jButton13" min="-2" pref="58" max="-2" attributes="0"/>
                           </Group>
                           <Group type="102" attributes="0">
                               <Group type="103" groupAlignment="0" attributes="0">
                                   <Group type="102" alignment="0" attributes="0">
-                                      <Component id="jButton5" min="-2" pref="58" max="-2" attributes="0"/>
+                                      <Component id="BT_Quatro" min="-2" pref="58" max="-2" attributes="0"/>
                                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                                      <Component id="jButton2" min="-2" pref="58" max="-2" attributes="0"/>
+                                      <Component id="BT_Cinco" min="-2" pref="58" max="-2" attributes="0"/>
                                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                                      <Component id="jButton4" min="-2" pref="58" max="-2" attributes="0"/>
+                                      <Component id="BT_Seis" min="-2" pref="58" max="-2" attributes="0"/>
                                       <EmptySpace type="separate" max="-2" attributes="0"/>
                                       <Component id="jButton12" min="-2" pref="58" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="0" attributes="0">
-                                      <Component id="jButton3" min="-2" pref="58" max="-2" attributes="0"/>
+                                      <Component id="BT_Um" min="-2" pref="58" max="-2" attributes="0"/>
                                       <EmptySpace type="separate" max="-2" attributes="0"/>
                                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
                                           <Group type="102" attributes="0">
-                                              <Component id="jButton16" min="-2" pref="58" max="-2" attributes="0"/>
+                                              <Component id="BT_Zero" min="-2" pref="58" max="-2" attributes="0"/>
                                               <EmptySpace type="separate" max="-2" attributes="0"/>
-                                              <Component id="jButton17" min="-2" pref="58" max="-2" attributes="0"/>
+                                              <Component id="BT_Ponto" min="-2" pref="58" max="-2" attributes="0"/>
                                               <EmptySpace type="separate" max="-2" attributes="0"/>
                                               <Component id="jButton14" max="32767" attributes="0"/>
                                           </Group>
                                           <Group type="102" attributes="0">
-                                              <Component id="jButton9" min="-2" pref="58" max="-2" attributes="0"/>
+                                              <Component id="BT_Dois" min="-2" pref="58" max="-2" attributes="0"/>
                                               <EmptySpace type="separate" max="-2" attributes="0"/>
-                                              <Component id="jButton10" min="-2" pref="58" max="-2" attributes="0"/>
+                                              <Component id="BT_Tres" min="-2" pref="58" max="-2" attributes="0"/>
                                               <EmptySpace type="separate" max="-2" attributes="0"/>
-                                              <Component id="jButton11" min="-2" pref="58" max="-2" attributes="0"/>
+                                              <Component id="BT_Adicao" min="-2" pref="58" max="-2" attributes="0"/>
                                           </Group>
                                       </Group>
                                   </Group>
@@ -157,29 +157,29 @@
                   <Group type="102" alignment="1" attributes="0">
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="jButton8" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
-                          <Component id="jButton6" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
-                          <Component id="jButton7" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                          <Component id="BT_Sete" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                          <Component id="BT_Oito" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                          <Component id="BT_Nove" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
                           <Component id="jButton13" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="jButton5" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
-                          <Component id="jButton2" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
-                          <Component id="jButton4" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                          <Component id="BT_Quatro" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                          <Component id="BT_Cinco" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                          <Component id="BT_Seis" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
                           <Component id="jButton12" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="jButton3" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
-                          <Component id="jButton9" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
-                          <Component id="jButton10" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
-                          <Component id="jButton11" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                          <Component id="BT_Um" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                          <Component id="BT_Dois" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                          <Component id="BT_Tres" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                          <Component id="BT_Adicao" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="jButton16" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
-                          <Component id="jButton17" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                          <Component id="BT_Zero" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                          <Component id="BT_Ponto" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
                           <Component id="jButton14" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace max="32767" attributes="0"/>
@@ -193,7 +193,7 @@
             </DimensionLayout>
           </Layout>
           <SubComponents>
-            <Component class="javax.swing.JButton" name="jButton2">
+            <Component class="javax.swing.JButton" name="BT_Cinco">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Arial" size="40" style="1"/>
@@ -201,7 +201,7 @@
                 <Property name="text" type="java.lang.String" value="5"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton3">
+            <Component class="javax.swing.JButton" name="BT_Um">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Arial" size="40" style="1"/>
@@ -209,7 +209,7 @@
                 <Property name="text" type="java.lang.String" value="1"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton4">
+            <Component class="javax.swing.JButton" name="BT_Seis">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Arial" size="40" style="1"/>
@@ -217,7 +217,7 @@
                 <Property name="text" type="java.lang.String" value="6"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton5">
+            <Component class="javax.swing.JButton" name="BT_Quatro">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Arial" size="40" style="1"/>
@@ -225,7 +225,7 @@
                 <Property name="text" type="java.lang.String" value="4"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton6">
+            <Component class="javax.swing.JButton" name="BT_Oito">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Arial" size="40" style="1"/>
@@ -233,7 +233,7 @@
                 <Property name="text" type="java.lang.String" value="8"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton7">
+            <Component class="javax.swing.JButton" name="BT_Nove">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Arial" size="40" style="1"/>
@@ -241,7 +241,7 @@
                 <Property name="text" type="java.lang.String" value="9"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton8">
+            <Component class="javax.swing.JButton" name="BT_Sete">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Arial" size="40" style="1"/>
@@ -249,7 +249,7 @@
                 <Property name="text" type="java.lang.String" value="7"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton9">
+            <Component class="javax.swing.JButton" name="BT_Dois">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Arial" size="40" style="1"/>
@@ -257,7 +257,7 @@
                 <Property name="text" type="java.lang.String" value="2"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton10">
+            <Component class="javax.swing.JButton" name="BT_Tres">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Arial" size="40" style="1"/>
@@ -265,7 +265,7 @@
                 <Property name="text" type="java.lang.String" value="3"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton11">
+            <Component class="javax.swing.JButton" name="BT_Adicao">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Arial" size="40" style="1"/>
@@ -305,7 +305,7 @@
                 <Property name="text" type="java.lang.String" value="="/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton16">
+            <Component class="javax.swing.JButton" name="BT_Zero">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Arial" size="40" style="1"/>
@@ -313,7 +313,7 @@
                 <Property name="text" type="java.lang.String" value="0"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton17">
+            <Component class="javax.swing.JButton" name="BT_Ponto">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Arial" size="40" style="1"/>
